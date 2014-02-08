@@ -1,0 +1,14 @@
+<h1> Hi everyone, i'm learning Haskell and Yesod and git and markdown, pls bear with me :)
+<h2> What's in here 
+
+<h3>The original scaffold 
+  <a href=@{HomeR}>
+    home page 
+<h3> The examples from Yann Esposito's 
+  <a href="http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/">
+    Yesod Tutorial
+<ul>
+  <li>
+    <a href="/echo/TypeSomethingHere"> Echo </a> - Type something after the URL
+  <li><a href=@{MirrorR}> Mirror </a>
+  <li>Mini <a href=@{BlogR}>blog</a>
